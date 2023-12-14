@@ -1,0 +1,20 @@
+body{
+    background-image: url(san-francisco-spca-meet-the-cats.jpg);
+    background-size: 1000px;
+}
+
+h2{
+    
+    color: rgb(115, 255, 0);
+    text-align: center;
+    border: 5px solid red ;
+}
+
+ul{
+    list-style-type: "👉";
+}
+
+h2{
+    cursor: pointer;
+}
+
